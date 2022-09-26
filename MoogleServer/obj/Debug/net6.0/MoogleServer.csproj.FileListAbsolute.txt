@@ -1,0 +1,120 @@
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/moogle/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/heveryt/moogle/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/appsettings.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll

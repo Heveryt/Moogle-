@@ -1,0 +1,48 @@
+/home/heveryt/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/heveryt/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/moogle/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/Proyecto Primer Semestre/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/heveryt/Documentos/Inventos/moogle v 1.1/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/media/heveryt/Kakarotto/Proyecto/moogle/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
